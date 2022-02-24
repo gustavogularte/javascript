@@ -12,3 +12,19 @@ n.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
 ordem: nao e ou
 
 exemplo de tipo if:
+var idade = 19
+var r = idade >= 18 ? 'MAIOR : 'MENOR'
+
+
+SELECIONAR ALGO:
+        var d = window.document.getElementsByClassName('msg')[0]
+        d.style.background = 'green'
+        d.innerText = 'Estou aguardando'
+
+MUDAR NOME DE ALGO COM MOUSE:
+        var a = window.document.getElementById('area')
+        a.addEventListener('click', clicar)
+
+        function clicar() {
+            a.innerText = 'Clicou'
+            a.style.background = 'red'
