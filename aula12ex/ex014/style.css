@@ -22,6 +22,7 @@ section {
 
 div {
     text-align: center;
+    padding: 10px;
 }
 div#foto > img {
     border-radius: 50%;
