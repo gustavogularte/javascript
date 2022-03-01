@@ -28,3 +28,7 @@ MUDAR NOME DE ALGO COM MOUSE:
         function clicar() {
             a.innerText = 'Clicou'
             a.style.background = 'red'
+
+INPUT:
+input:number == colocar numers
+input:radio == bolinha de marcar  (label para escrever o que signfica a marcação)
