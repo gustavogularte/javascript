@@ -20,8 +20,9 @@ section {
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.295);
 }
 
-div#res {
-    line-height: 50px;
+img {
+    display: block;
+    margin: auto;
 }
 
 footer {
