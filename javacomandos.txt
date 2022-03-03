@@ -34,6 +34,15 @@ input:number == colocar numers
 input:radio == bolinha de marcar  (label para escrever o que signfica a marcação)
 
 
+switch(numero aqui) {
+     case 0:
+         console.log('escreva algo')
+         break
+     default:
+         console.log('ERRO')
+         break
+
+
 LISTAS ETC:
 let num = []
 num.push(7) = add 7 no final da lista
