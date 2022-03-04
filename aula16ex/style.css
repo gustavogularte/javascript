@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(0, 162, 255);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header > h1 {
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    color: black;
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.295);
+}
+
+select#flista {
+    width: 150px;
+}
+
+footer {
+    text-align: center;
+}
