@@ -49,3 +49,4 @@ num.push(7) = add 7 no final da lista
 num.lenght = tamanho da lista
 num.sort() = organizar
 let pos = num.indexOf(x) = achar a key de algo na lista
+
